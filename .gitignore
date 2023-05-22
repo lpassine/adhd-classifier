@@ -1,0 +1,14 @@
+# Ignore specific files
+Projeto\ de\ Pesquisa\ -\ TCC\ -\ MBA\ USP\ ESALQ.docx
+Resultados\ Preliminares-\ MBA\ USP\ ESALQ.docx
+Termo\ de\ Prorrogacao\ de\ depósito\ do\ TCC\ -\ Turma\ 212\ -\ Teste.docx
+Termo\ de\ Prorrogacao\ de\ depósito\ do\ TCC\ -\ Turma\ 212\ .docx
+Termo\ de\ Prorrogacao\ de\ depósito\ do\ TCC\ -\ Turma\ 212\ .pdf
+Untitled-1.ipynb
+Untitled-1.py
+Untitled-2.ipynb
+Untitled-3.ipynb
+model.png
+
+# Ignore directories
+nilearn_cache/

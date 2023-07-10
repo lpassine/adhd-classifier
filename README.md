@@ -1,6 +1,11 @@
 # adhd-classifier
-### MBA Data Science and Analytics final project
 
+
+### Note: 
+
+Project still in development and I'm still studying the models :)
+
+### MBA Data Science and Analytics final project
 
 
 Attention Deficit Hyperactivity Disorder (ADHD) is one of the most common neurodevelopment disorders that affects 11 percent of children (Visser, S.N., 2014.) and symptoms tend to continue into adulthood in approximately 75 percent of cases (Brown, T.E., 2013.). 

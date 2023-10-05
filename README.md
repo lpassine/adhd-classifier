@@ -1,11 +1,4 @@
-# adhd-classifier
-
-
-### Note: 
-
-Project still in development and I'm still studying the models :)
-
-### MBA Data Science and Analytics final project
+# 3D-CNN ADHD Classifier
 
 
 Attention Deficit Hyperactivity Disorder (ADHD) is one of the most common neurodevelopment disorders that affects 11 percent of children (Visser, S.N., 2014.) and symptoms tend to continue into adulthood in approximately 75 percent of cases (Brown, T.E., 2013.). 
@@ -20,5 +13,4 @@ Over the last few years, a rapidly growing number of studies have been published
 
 This new approach point that the symptoms of ADHD may be result from dysfunctional network connections rather than discrete structural or functional abnormalities, in example, individual differences in brain connectivity perhaps also underline the different clinical symptoms associated with each subtype of ADHD (Frontiers in Integrative Neuroscience, 2020).
 
-Inspired by deep learning recent approaches, this project aims to apply a deep learning model to analyze rs-fMRI data to identify changes in functional connectivity in Attention Deficit Hyperactivity Disorder (ADHD) by extracting features by designing, instead of hand-crafted features. It intends to explore the emerging path of novel diagnostic in the detection of ADHD through feature identifications (biomarkers) of ADHD individuals’ brains images and Health Control ones. Which may contribute to the field not only by increasing the accuracy and efficiency of classification but also lowering mistakes during diagnosis.
-
+Inspired by deep learning recent approaches, this project aims to apply a deep learning model to analyze rs-fMRI data to identify changes in functional connectivity in Attention Deficit Hyperactivity Disorder (ADHD) by extracting features by designing, instead of hand-crafted features. It intends to explore the emerging path of novel diagnostic in the detection of ADHD through feature identifications (biomarkers) of ADHD individuals’ brains images and Health Control ones.
